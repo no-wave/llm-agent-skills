@@ -1,0 +1,14 @@
+{
+  "project_name": "my-awesome-landing",
+  "product_name": "AI 프로젝트 관리 도구",
+  "description": "팀 협업을 10배 빠르게 만드는 차세대 프로젝트 관리 플랫폼이다",
+  "target_audience": "스타트업 및 중소기업 팀",
+  "key_features": [
+    "실시간 협업 및 동시 편집",
+    "AI 기반 업무 자동화",
+    "직관적인 칸반 보드",
+    "강력한 분석 대시보드",
+    "100+ 외부 도구 연동"
+  ],
+  "brand_color": "blue"
+}
