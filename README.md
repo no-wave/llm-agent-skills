@@ -4,6 +4,7 @@
 <img src="https://beat-by-wire.gitbook.io/beat-by-wire/~gitbook/image?url=https%3A%2F%2F3055094660-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FYzxz4QeW9UTrhrpWwKiQ%252Fuploads%252FGS6krP9wPXxdK8ZJ5mfb%252FLLM-Router.png%3Falt%3Dmedia%26token%3D80f4d16a-047d-463c-ac8b-63a447fdfa87&width=300&dpr=4&quality=100&sign=9ba1c420&sv=2" width="500" height="707"/>
 
 
+
 ## 책 소개
 
 인공지능 에이전트 기술은 이제 단순한 질의응답을 넘어 복잡한 작업을 자율적으로 수행하는 단계로 진화하고 있다. 특히 대규모 언어 모델(LLM)의 발전과 함께 에이전트가 특정 도메인 지식과 작업 수행 능력을 갖추도록 하는 것이 중요해졌다. 이러한 맥락에서 'Agent Skills'는 에이전트에게 전문성을 부여하고, 복잡한 작업을 체계적으로 처리할 수 있도록 하는 핵심 메커니즘이다.
