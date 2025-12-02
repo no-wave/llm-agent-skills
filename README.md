@@ -29,6 +29,7 @@ Table of Contents (목차)
 서문: 들어가며
 
 1장: Agent Skills 개요
+
 1.1. Agent Skills 개요
 1.2. 개요 및 환경 설정
 1.3. 직접 읽기 방식 (Direct Reading Method)
@@ -36,6 +37,7 @@ Table of Contents (목차)
 1.5. 나만의 Skill 만들기 실습
 
 2장: Markdown과 YAML 파일로 Skills 구현
+
 2.1. Markdown 파일로 Skill 정의하기
 2.2. YAML 파일로 Skill 메타데이터 관리하기
 2.3. 또 다른 Skill 예제 생성
@@ -45,6 +47,7 @@ Table of Contents (목차)
 2.7. Skill 내보내기 및 공유
 
 3장: Claud와 OpenAI API와 Skills 구현 비교
+
 3.1. Claude API vs OpenAI API 개요
 3.2. API 제공자 열거형 정의
 3.3. 추상 베이스 클래스로 AI Client 인터페이스 정의
@@ -54,6 +57,7 @@ Table of Contents (목차)
 3.7. 제공자별 비교 테스트
 
 4장: Landing Page 에이전트 - Claude Skills
+
 4.1. Landing Page Guide Skill 개요
 4.2. Landing Page Guide Skill 정의
 4.3. SkillAgent 클래스 준비
@@ -63,6 +67,7 @@ Table of Contents (목차)
 4.7. 커스터마이징 가이드 생성
 
 5장: Landing Page 에이전트 - OpenAI API Skills
+
 5.2. Landing Page Guide Skill 정의하기
 5.3. Pydantic 모델로 랜딩 페이지 요구사항 정의
 5.4. OpenAI 기반 LandingPageAgent 구현
@@ -72,6 +77,7 @@ Table of Contents (목차)
 5.8. 커스터마이징 가이드 생성
 
 6장: Skills로 에이전트 워크플로우 자동화 - Claude
+
 6.1. 에이전트 워크플로우 개요
 6.2. 에이전트 상태 관리
 6.3. ReAct 에이전트 구현
@@ -81,6 +87,7 @@ Table of Contents (목차)
 6.7. 워크플로우 결과 저장 및 분석
 
 7장: Skills로 에이전트 워크플로우 자동화 - OpenAI
+
 7.1. 에이전트 워크플로우 개요
 7.2. Pydantic 모델로 에이전트 상태 관리
 7.3. OpenAI 기반 ReAct 에이전트 구현
@@ -91,6 +98,7 @@ Table of Contents (목차)
 7.8. 워크플로우 결과 저장 및 분석
 
 8장: Skills 파이프라인 자동화 - Claude
+
 8.1. Skills 파이프라인 개요
 8.2. 파이프라인 단계 정의
 8.3. 파이프라인 실행 엔진
@@ -100,6 +108,7 @@ Table of Contents (목차)
 8.7. 파이프라인 템플릿 저장 및 재사용
 
 9장. Skills 파이프라인 자동화 - OpenAI API
+
 9.1. Skills 파이프라인 개요
 9.2. Pydantic 모델 정의
 9.3. 파이프라인 구성 요소 모델
@@ -110,6 +119,7 @@ Table of Contents (목차)
 9.8. Pydantic 검증 예제
 
 10장: Skills 실전 프로젝트
+
 10.1. 프로젝트 landing-page-claude 개요
 10.2. 프로젝트 landing-page-opanai 개요
 10.3. 설치 및 환경 설정
